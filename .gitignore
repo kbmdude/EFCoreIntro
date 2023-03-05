@@ -21,11 +21,11 @@ yarn-error.log
 *.sublime-workspace
 
 # Visual Studio
-.vs
+.vs/
 
 # Build
-EFCoreIntro/bin/*
-EFCoreIntro/obj/*
+EFCoreIntro/bin/
+EFCoreIntro/obj/
 
 # Visual Studio Code
 .vscode/
