@@ -20,6 +20,13 @@ yarn-error.log
 .settings/
 *.sublime-workspace
 
+# Visual Studio
+.vs/
+
+# Build
+EFCoreIntro/bin/
+EFCoreIntro/obj/
+
 # Visual Studio Code
 .vscode/
 !.vscode/settings.json
